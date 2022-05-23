@@ -5,6 +5,7 @@
   },
   "devDependencies": {
     "@parcel/transformer-glsl": "^2.5.0",
+    "dat.gui": "^0.7.9",
     "parcel": "^2.5.0"
   }
 }
